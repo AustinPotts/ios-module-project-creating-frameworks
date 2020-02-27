@@ -1,0 +1,6 @@
+framework module Pods_LoadingUI_v3_X {
+  umbrella header "Pods-LoadingUI-v3-X-umbrella.h"
+
+  export *
+  module * { export * }
+}

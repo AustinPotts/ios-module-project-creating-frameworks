@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  LoadingUI-XCODE
+//  LoadingUI-v3-X
 //
 //  Created by Austin Potts on 2/27/20.
 //  Copyright © 2020 Lambda School. All rights reserved.
@@ -11,6 +11,7 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    var window: UIWindow?
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
